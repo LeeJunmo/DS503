@@ -18,3 +18,4 @@
 ![ATE Def](https://user-images.githubusercontent.com/74266785/232092671-35073238-7710-4c45-afbf-1cae692754d8.PNG)
 ![Table4](https://user-images.githubusercontent.com/74266785/232093427-7f87bebd-ca90-4588-bfa0-91ab6bc72cdb.PNG)
 ![Table5](https://user-images.githubusercontent.com/74266785/232093439-d250e83c-84a1-4ffa-99db-f7b98bad8863.PNG)
+![SGD PseudoCode](https://user-images.githubusercontent.com/74266785/232996663-5b3f6e6c-2c55-478f-8ede-1fb4999d0463.jpg)
